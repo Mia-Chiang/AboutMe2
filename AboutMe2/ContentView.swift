@@ -96,3 +96,4 @@ struct ContentView: View {
 #Preview {
     ContentView()
 }
+// project that gives information about the creator 
